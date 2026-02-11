@@ -47,8 +47,7 @@ Feel free to reach out:
 - **Location:** Debre Birhan, Ethiopia  
 
 Social Links:  
-[TikTok](https://www.tiktok.com/@getiye_demis) | [Instagram](https://www.instagram.com/getiyedemis17) | [GitHub](https://github.com/Gman1719) | [Telegram](https://web.telegram.org/k/) | [LinkedIn](https://www.linkedin.com/in/getiye-demis-702450258/)
-
+[TikTok](https://www.tiktok.com/@getiye_demis) | [Instagram](https://www.instagram.com/getiyedemis17) | [GitHub](https://github.com/Gman1719) | [Telegram](https://web.telegram.org/k/) | 
 ---
 
 ## ⚡ Features
@@ -60,11 +59,3 @@ Social Links:
 - Smooth navigation and interactive buttons
 
 ---
-
-## 📄 License
-
-This project is **open-source** and available under the [MIT License](LICENSE).
-
----
-
-**© <span id="year"></span> Getiye Demis**
